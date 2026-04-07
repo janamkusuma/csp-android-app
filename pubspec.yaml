@@ -1,0 +1,74 @@
+name: cp
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.3.2
+  fl_chart: ^1.2.0
+  share_plus: ^12.0.1
+  video_player: ^2.9.1
+  chewie: ^1.7.1
+  visibility_detector: ^0.4.0+2
+  google_maps_flutter: ^2.5.0
+  url_launcher: ^6.2.6
+  youtube_player_flutter: ^9.1.3
+  flutter_inappwebview: ^6.0.0
+  geolocator: ^14.0.2
+
+  image_picker: ^1.0.4
+
+
+dependency_overrides:
+  vector_math: ^2.3.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/ban.png
+    - assets/images/harmful.png
+    - assets/images/nature.png
+    - assets/images/jute.png
+    - assets/images/plastic_icon.png
+    - assets/images/article1.jpg
+    - assets/images/article2.jpg
+    - assets/images/article3.jpg
+    - assets/images/video_thumb1.jpg
+    - assets/images/video_thumb2.jpg
+    - assets/images/video_thumb3.jpg
+    - assets/images/plastic_bag.png
+    - assets/images/tote_bag.jpg
+    - assets/images/mesh_bag.jpg
+    - assets/images/green_bag.jpg
+    - assets/images/leaf_bag.jpg
+    - assets/images/steel_bottle.jpg
+    - assets/images/wooden_spoon.jpg
+    - assets/images/bamboo_toothbrush.jpg
+    - assets/images/cotton_bag.jpg
+    - assets/images/glass_jar.jpg
+    - assets/images/metal_straw.jpg
+    - assets/images/bamboo_cutlery.jpg
+    - assets/images/reusable_cup.jpg
+    - assets/images/beeswax_wrap.jpg
+    - assets/images/snack_bag.jpg
+    - assets/images/compost_bin.jpg
+    - assets/images/lunch_box.jpg
+    - assets/images/cloth_napkin.jpg
+    - assets/images/water_pouch.jpg
+    - assets/images/metal_lunchbox.jpg
+    - assets/images/bamboo_plate.jpg
+    - assets/images/glass_bottle.jpg
+    - assets/images/bamboo_toothpaste.jpg
+    - assets/images/rally.jpg
