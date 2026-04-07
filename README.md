@@ -1,16 +1,79 @@
-# cp
+# 🌱 CSP Project – Plastic Free Awareness App
 
-A new Flutter project.
+## 📌 Problem Statement
 
-## Getting Started
+Plastic bags usage is increasing and causing serious environmental pollution.
+This project aims to create awareness and encourage people to use eco-friendly alternatives.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Objective
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Reduce plastic bag usage
+* Promote eco-friendly products
+* Create awareness among people
+* Encourage sustainable lifestyle
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📱 Features
+
+* 📰 Awareness Feed (articles & images)
+* 🛍️ Eco-friendly product suggestions
+* 📍 Nearby stores locator
+* 🎥 Awareness videos
+* 👤 User login & profile
+* 🌍 Events & campaigns tracking
+
+---
+
+## 🛠️ Technologies Used
+
+* Flutter (Frontend)
+* Firebase (Backend)
+* Google Maps API
+* Android Studio
+
+---
+
+## 🔐 Security
+
+* API keys are secured using local configuration
+* Sensitive data is not exposed in the repository
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository
+2. Open in Android Studio
+3. Add your API key in `local.properties`
+4. Run the app
+
+---
+
+
+## 🌍 Impact
+
+This app helps in:
+
+* Reducing plastic pollution
+* Promoting reusable products
+* Spreading environmental awareness
+
+---
+
+## 👩‍💻 Developed By
+
+Kusuma Janam
+B.Tech Student
+
+---
+
+## 💡 Future Enhancements
+
+* Reward system for eco-friendly actions
+* AI-based suggestions
+* Community challenges
+
+---
